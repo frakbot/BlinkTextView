@@ -5,7 +5,7 @@ BlinkTextView
 
 **A TextView that blinks, just like the good old HTML `<blink>` tag.**
 
-Because, why not? Also, this is a birthay gift. Happy Birthday, Daniele!
+Because, why not? Also, this is a birthday gift. Happy Birthday, Daniele!
 
 ![Demo GIF -- Everybody loves GIFs, right?](art/demo.gif)
 
@@ -31,7 +31,7 @@ each of your blinks completely unique, your users will want to "thank" you! Guar
 Also, you can't change the default blinking period. There's sound science behind it. Also, writing getters and setters
 is boooring. It's boring even when the IDE can generate them automatically, yes.
 
-Oh, about that *, read: _annoying_
+Oh, about that *, read: _annoying_.
 
 ### License
 This library is...
